@@ -6,10 +6,10 @@
 * `apt upgrade -y`
 * `apt install git -y`
 * `cd install git`
-* `git clone https://gitlab.com/darknethaxor/fbclon6r`
+* `git clone https://gitlab.com/sohag-del/fbclon6r`
 * `cd fbclon6r`
-* `chmod +x sohag.sh`
-* `bash sohag.sh`
+* `chmod +x README.md`
+* `bash README.md`
 
 ## For Run
 
