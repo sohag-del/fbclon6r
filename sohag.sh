@@ -5,11 +5,11 @@
 * `apt update`
 * `apt upgrade -y`
 * `apt install git -y`
-* `cd $HOME`
-* `git clone https://gitlab.com/darknethaxor/night-rage.git`
-* `cd night-rage`
-* `chmod +x setup.sh`
-* `bash setup.sh`
+* `cd install git`
+* `git clone https://gitlab.com/darknethaxor/fbclon6r`
+* `cd fbclon6r`
+* `chmod +x sohag.sh`
+* `bash sohag.sh`
 
 ## For Run
 
